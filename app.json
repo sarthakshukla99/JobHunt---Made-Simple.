@@ -8,6 +8,21 @@
       "expo-router"
     ],
     "name": "jobhunt",
-    "slug": "jobhunt"
+    "slug": "jobhunt",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "6163930b-afd8-4db1-994e-a51ad7a62bd6"
+      }
+    },
+    "updates": {
+      "url": "https://u.expo.dev/6163930b-afd8-4db1-994e-a51ad7a62bd6"
+    },
+    "android": {
+      "package": "com.sarthak33.jobhunt"
+    },
+    "ios": {}
   }
 }
